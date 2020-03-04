@@ -25,3 +25,22 @@ git checkout -b beta
 git branch
 
 
+git add . 
+
+git commit -m "create branch"
+
+git push -u origin beta
+
+---------------------------
+
+git checkout master
+
+git branch
+
+git merge beta
+
+git push
+
+
+
+
