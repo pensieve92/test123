@@ -20,3 +20,8 @@ git push -u origin master
 
 ------------------------------------
 
+git checkout -b beta
+
+git branch
+
+
