@@ -25,6 +25,11 @@ git remote add origin https://github.com.pensieve92/test123.git
 git push -u origin master
 
 ------------------------------------------------------------------------
+git commit 취소  
+git log (나오기 [q])  
+git reset --soft HEAD~1 마지막 1개 취소  
+
+------------------------------------------------------------------------
 
 git checkout -b beta
 
