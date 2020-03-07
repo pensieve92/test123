@@ -1,3 +1,8 @@
+
+현재 디렉토리에 clone
+git clone https://github.com.pensieve92/test123.git .
+------------------------------------------------------------------------
+
 git init
 
 git status
@@ -18,7 +23,7 @@ git remote add origin https://github.com.pensieve92/test123.git
 
 git push -u origin master
 
-------------------------------------
+------------------------------------------------------------------------
 
 git checkout -b beta
 
@@ -31,7 +36,7 @@ git commit -m "create branch"
 
 git push -u origin beta
 
----------------------------
+------------------------------------------------------------------------
 
 git checkout master
 
