@@ -1,6 +1,7 @@
 
-현재 디렉토리에 clone
+현재 디렉토리에 clone  
 git clone https://github.com.pensieve92/test123.git .
+
 ------------------------------------------------------------------------
 
 git init
