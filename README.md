@@ -52,6 +52,14 @@ git merge beta
 
 git push
 
+------------------------------------------------------------------------
+git add . warning  
+warning: LF will be replaced by CRLF in pensieve-frontend/package.json.  
+The file will have its original line endings in your working directory  
+os 마다 차이가 있어서 발생한다고 함
 
+git config --global core.autocrlf false
 
+https://bnzn2426.tistory.com/33
 
+------------------------------------------------------------------------
