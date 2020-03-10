@@ -63,3 +63,10 @@ git config --global core.autocrlf false
 https://bnzn2426.tistory.com/33
 
 ------------------------------------------------------------------------
+
+파일명 변경
+git mv homePage.js HomePage.js
+git status
+git commit -m "rename file name"
+
+------------------------------------------------------------------------
